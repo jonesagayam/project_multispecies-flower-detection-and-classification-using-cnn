@@ -1,0 +1,14 @@
+opencv-python
+tensorflow
+gunicorn
+Flask
+numpy
+Pillow
+torchfile
+torchvision
+Jinja2
+Werkzeug
+
+
+
+
